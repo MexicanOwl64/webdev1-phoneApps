@@ -1,0 +1,104 @@
+body {
+  background: grey;
+}
+.container {
+  
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+
+.box {
+  width: 100px;
+  height: 100px;
+  margin: 10px;
+  border: 2px solid black;
+}
+
+/* First Column
+*/
+#redBox {
+  background: red;
+}
+#greenBox {
+  background: green;
+}
+#yellowBox {
+  background: yellow;
+}
+#blueBox {
+  background: blue;
+}
+#orangeBox {
+  background: orange;
+}
+
+/* Second Column
+*/
+#blackBox {
+  background: black;
+}
+#violetBox {
+  background: violet;
+}
+#goldBox {
+  background: gold;
+}
+#silverBox {
+  background: silver;
+}
+#greenyellowBox {
+  background: greenyellow;
+}
+
+
+/* Third Column
+*/
+#ClashBox {
+  background-image: url(Clash.jpg);
+  background-size: 100px 100px;
+}
+#InstaBox {
+  background-image: url(Insta.jpg);
+  background-size: 100px 100px;
+}
+#YoutubeBox {
+  background-image: url(YouTube.jpg);
+  background-size: 100px 100px;
+}
+#DiscordBox {
+  background-image: url(Discord.jpg);
+  background-size: 100px 100px;
+}
+#MarioBox {
+  background-image: url(MarioRun.jpg);
+  background-size: 100px 100px;
+}
+
+/* Fifth Column
+*/
+#magentaBox {
+  background: magenta;
+}
+#skyblueBox {
+  background: skyblue;
+}
+#orangeredBox {
+  background: orangered;
+}
+#purpleBox {
+  background: purple;
+}
+#brownBox {
+  background: brown;
+}
+
+
+
+
+
+
+
+
+  
